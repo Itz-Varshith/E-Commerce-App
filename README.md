@@ -41,7 +41,9 @@ View Live Application(https://e-commerce-app-frontend-teal.vercel.app/)
 - **Authentication**:  JWT-based auth
 - **Payments**: Stripe
 - **Hosting**: Vercel
-- **Styling**: Tailwind CSS 
+- **Styling**: Tailwind CSS
+-
+Note: The deployment for the admin panel has some issue will be resolved pretty soon but till then the preview can be looked at on local device by cloning the repository and then dowloading the dependencies and runnin the project.
 
 ---
 
