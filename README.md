@@ -44,6 +44,13 @@ View Live Application(https://e-commerce-app-frontend-teal.vercel.app/)
 - **Styling**: Tailwind CSS
 -
 Note: The deployment for the admin panel has some issue will be resolved pretty soon but till then the preview can be looked at on local device by cloning the repository and then dowloading the dependencies and runnin the project.
+Some preview pictures are given as a reference for the admin panel
+![Screenshot from 2025-04-12 01-31-37](https://github.com/user-attachments/assets/df3f5620-bbcb-41be-ade3-3e30215f67c5)
+![Screenshot from 2025-04-12 01-34-53](https://github.com/user-attachments/assets/6946a8be-47b6-4bdd-9791-c25c5c2e704f)
+![Screenshot from 2025-04-12 01-34-48](https://github.com/user-attachments/assets/8eae378f-60e1-4979-9f33-77e57b6c1015)
+
+
+
 
 ---
 
