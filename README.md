@@ -6,8 +6,7 @@ Hosted on **Vercel** for high performance and global availability.
 
  🔗 Live Demo
 
-View Live Application for the USER page(https://e-commerce-app-frontend-teal.vercel.app/)
-View Live Application for the ADMIN page(https://e-commerce-app-admin-nine.vercel.app/)
+View Live Application(https://e-commerce-app-frontend-teal.vercel.app/)
 ---
 
  ✨ Features
